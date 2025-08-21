@@ -1,0 +1,16 @@
+{
+  "id": "OEeduNwgPnVlZNOWySkmA",
+  "name": "NewSchema",
+  "appId": "LBaCNkfqAmgfJvfQfErzj",
+  "folderId": "PiIGdhnymoLmWwHleelZM",
+  "content": {
+    "type": "json-schema",
+    "destination": "source",
+    "content": null,
+    "name": "NewSchema",
+    "schemaSource": "file",
+    "reference": "$ref://schema-registry/OEeduNwgPnVlZNOWySkmA"
+  },
+  "itemType": "appSchemas",
+  "gitEnabled": true
+}
